@@ -1,0 +1,12 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC Part #
+
+"2.4GHz antenna","","ANT1","2.4GHz antenna","2.4GHz antenna","1","C3283994"
+"1uF","0402 smd capacitor","C1, C2","0402 capacitor","0402 capacitor","2","C52923"
+"USBLC6-2P6","TVS DIODE 5.25V 17V SOT666","D1","FP-SOT-666-MFG","CMP-12225-000058-1","1","C15999"
+"300mA","","F1","0805 polyfuse","0805 polyfuse","1","C22378359"
+"BT850-ST","","IC1","BT850-ST","BT850-ST","1"
+"AP2112K-3.3TRG1","Integrated Circuit","IC2","SOT95P285X140-5N","AP2112K-3.3TRG1","1","C51118"
+"9nH","","L1","0402INDUCTOR","0402 inductor","1","C113122"
+"11nH","","L2","0402INDUCTOR","0402 inductor","1","C337934"
+"USB A MALE","","USB1","USB A MALE","USB A MALE","1","C386752"
+"100nF", "","C3","0402 capacitor","0402 capacitor","1","C1525"
