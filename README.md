@@ -26,17 +26,16 @@ This project aimed to design and manufacture a custom Bluetooth 5.0 dongle that 
 ## Hardware & Architecture
 
 ### PCB Design (Altium Designer)
-![Altium Designer 4-layer PCB routing]
 
 <table align="center">
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/9cdaeb53-3378-49fc-8059-a2108db192a0" width="500" alt="Isometric View of PCB" />
-      <br><b>Altium 3D Render</b>
+      <br><b>Isometric View of PCB</b>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/b6846794-0515-4dd3-a436-1684514b8c97" width="300" alt="Top View of PCB" />
-      <br><b>Assembled Hardware</b>
+      <br><b>Top View of PCB</b>
     </td>
   </tr>
 </table>
